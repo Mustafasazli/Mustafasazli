@@ -23,7 +23,7 @@
 
 - 🔭 Currently working on **high-traffic backend systems** and **scalable architecture design**.  
 - 🌱 Passionate about learning — performance optimization, clean code, system design, DevOps.  
-- 💬 Contact: **[mustafasazli.com](https://mustafasazli.com)** · 📧 **mustafasazli@gmail.com**  
+- 💬 Contact: **[mustafasazli.com](https://mustafasazli.com)** · 📧 **imustafasazli@gmail.com**  
 - 🤝 Open to collaboration on **backend, full-stack projects, DevOps setups, and system architecture**.  
 
 ---
